@@ -1,6 +1,6 @@
 # Early Dawn Wiki
 
-Welcome to the Early Dawn Wiki — your ultimate guide to surviving, crafting, and dominating in the Roblox game **Early Dawn**.
+Welcome to the Early Dawn Wiki - your ultimate guide to surviving, crafting, and dominating in the Roblox game **Early Dawn**.
 
 ## Features
 

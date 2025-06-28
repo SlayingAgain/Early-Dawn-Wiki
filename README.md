@@ -17,7 +17,7 @@ Navigate through sections like Weapons, Healing, Neurons, Pro Tips, and About vi
 
 ## Developed By
 
-Created by whybegs
+whybegs
 
 ## License
 
